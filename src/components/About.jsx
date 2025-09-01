@@ -41,8 +41,7 @@ const About = () => {
           className="text-lg leading-8"
         >
           I'm currently sharpening my skills through personal projects . My long-term dream is to work in the field of{" "}
-          <span className="font-semibold text-pink-500">Automotive software engineering</span> and contribute
-          to innovative tech.
+          <span className="font-semibold text-pink-500">Software Engineering</span>.
         </motion.p>
       </div>
     </section>
