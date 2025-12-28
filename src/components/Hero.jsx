@@ -19,7 +19,7 @@ const Hero = () => {
           transition={{ duration: 1 }}
           className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight"
         >
-          Hi, I'm Quratul-ain
+          Hi, I'm Qurat-ul-Ain
         </motion.h1>
 
         <motion.p
